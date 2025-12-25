@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+sqlalchemy
+python-multipart
+jinja2
+pdfplumber
+beautifulsoup4
+ics
+passlib[bcrypt]
+bcrypt
+itsdangerous
